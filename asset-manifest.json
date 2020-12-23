@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/worldtime-luxon/static/css/main.2c0f2b34.chunk.css",
+    "main.js": "/worldtime-luxon/static/js/main.6933038d.chunk.js",
+    "main.js.map": "/worldtime-luxon/static/js/main.6933038d.chunk.js.map",
+    "runtime-main.js": "/worldtime-luxon/static/js/runtime-main.eafbcf8a.js",
+    "runtime-main.js.map": "/worldtime-luxon/static/js/runtime-main.eafbcf8a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/worldtime-luxon/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.672bbcfe.chunk.js": "/worldtime-luxon/static/js/2.672bbcfe.chunk.js",
+    "static/js/2.672bbcfe.chunk.js.map": "/worldtime-luxon/static/js/2.672bbcfe.chunk.js.map",
+    "index.html": "/worldtime-luxon/index.html",
+    "precache-manifest.9719b6dd4b99c836d418d0c999780e33.js": "/worldtime-luxon/precache-manifest.9719b6dd4b99c836d418d0c999780e33.js",
+    "service-worker.js": "/worldtime-luxon/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/worldtime-luxon/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.2c0f2b34.chunk.css.map": "/worldtime-luxon/static/css/main.2c0f2b34.chunk.css.map",
+    "static/js/2.672bbcfe.chunk.js.LICENSE.txt": "/worldtime-luxon/static/js/2.672bbcfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eafbcf8a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.672bbcfe.chunk.js",
+    "static/css/main.2c0f2b34.chunk.css",
+    "static/js/main.6933038d.chunk.js"
+  ]
+}
